@@ -53,8 +53,8 @@ education:
       university: Seoul National University
       time: 2017 - present
       details: |
-          - Title of dissertation: Cryptographic Primitives for Privacy-Preserving Machine Learning: Approximate Homomorphic Encryption and Code-Based Cryptography
-	        - Expected graduation in Feb. 2021
+        - Title of dissertation: Cryptographic Primitives for Privacy-Preserving Machine Learning: Approximate Homomorphic Encryption and Code-Based Cryptography
+        - Expected graduation in Feb. 2021
     - degree: MSc in Electrical and Computer Engineering
       university: Seoul National University
       time: 2015 - 2017
@@ -64,7 +64,7 @@ education:
       university: GIST
       time: 2011 - 2015
       details: |
-          - Minor in Biology
+        - Minor in Biology
 projects:
     - title: Privacy-preserving Deep Learning Design Using Fully Homomorphic Encryption
       time: Sep. 2020 - Present
