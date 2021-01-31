@@ -43,10 +43,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    He received a B.S. degree in electrical engineering and computer science from Gwangju Institute of Science and Technology in 2015 and an M.S. degree in electrical and computer engineering from Seoul National University in 2017, where he is currently pursuing the Ph.D. degree. 
-    He won the distinguished dissertation award in Seoul National University. 
-    He is also a submitter for a candidate algorithm (pqsigRM) in the first round for the NIST Post Quantum Cryptography Standardization.
-    His current research interests include privacy-preserving machine learning, homomorphic encryption, and code-based cryptography.
+    He received a B.S. degree in electrical engineering and computer science from Gwangju Institute of Science and Technology in 2015 and an M.S. degree in electrical and computer engineering from Seoul National University in 2017, where he is currently pursuing the Ph.D. degree. He won the distinguished dissertation award in Seoul National University. He is also a submitter for a candidate algorithm (pqsigRM) in the first round for the NIST Post Quantum Cryptography Standardization. His current research interests include privacy-preserving machine learning, homomorphic encryption, and code-based cryptography.
+
 education:
     - degree: Ph.D. Candidate in Coding and Cryptography Lab.
       university: Seoul National University
