@@ -7,42 +7,33 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Yongwoo Lee
+    tagline: Cryptographer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: yongwool@snu.ac.kr; yw0803.lee@samsung.com
+    citizenship: Korea
+    linkedin: yongwoo-lee-2150b71b9
+    github: Yongwoo-Lee-ccl
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       - idiom: English
+        level: Intermediate
+
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Weight Training
         link:
 
       - item: Cooking
@@ -51,143 +42,120 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a Staff Researcher in the Computing Platform Lab. at <a href="https://www.sait.samsung.co.kr/">Samsung Advanced Institute Technology</a>.
+      I received the B.S. degree in EECS and Biology (minor) from <a href="https://eecs.gist.ac.kr/eecseng/index.do">GIST</a> in 2015.
+      I received the M.S. and Ph.D. degrees with Distinguished Dissertation Award in Coding and Cryptography Lab, the Department of <a href="https://ece.snu.ac.kr/en">ECE from Seoul National University (SNU)</a> in 2017 and 2021, respectively.
+      I am very fortunate to be advised by <a href="http://ccl.snu.ac.kr">Jong-Seon No</a>.
+
+      I am interested in cryptographic tools for privacy-preserving computing, especially <a href="https://en.wikipedia.org/wiki/Homomorphic_encryption">Homomorphic Encryption</a>.
+      I am also interested in post-quantum cryptography, such as code-based and lattice-based cryptography.
+      I am also one of the submitters for a candidate algorithm (pqsigRM) in the first round of the NIST PQC Standardization.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ph.D in Electrical and Computer Engineering 
+      university: Seoul National University
+      time: 2017 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Title of dissertation: Cryptographic Primitives for Privacy-Preserving Machine Learning: Approximate Homomorphic Encryption and Code-Based Cryptography
+          - Research area: Cryptography
+          - Advisor: Jong-Seon No
+          - Distinguished Dissertation Award
+    - degree: M.S. in Electrical and Computer Engineering 
+      university: Seoul National University
+      time: 2015 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Title of thesis: A Ciphertext-Only Attack and Modifications for Esmaeili-Gulliver Cryptosystem
+    - degree: B.S. in Electrical Engineering and Computer Science (Biology minor)
+      university: GIST
+      time: 2011 - 2015
+      details: 
+    - degree: High School
+      university: Hansung Science High School
+      time: 2008 - 2011
+      details: 
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Staff Researcher
+      time: 2021 - Present
+      company: Samsung Advanced Institute of Technology,  Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        Research Area: Homomorphic Encryption
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro:  
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: High-Precision Bootstrapping for Approximate Homomorphic Encryption by Error Variance Minimization
+        link: 
+        authors: Yongwoo Lee, Joon-Woo Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, and HyungChul Kang
+        conference: EUROCRYPT (Accepted), 2022
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Privacy-preserving machine learning with fully homomorphic encryption for deep neural network
+        link: "https://eprint.iacr.org/2021/783"
+        authors: Joon-Woo Lee, HyungChul Kang, Yongwoo Lee, Woosuk Choi, Jieun Eom, Maxim Deryabin, Eunsang Lee, Junghyun Lee, Donghoon Yoo, Young-Sik Kim, and Jong-Seon No
+        conference: IEEE Access (Accepted), 2022
 
+      - title: Iterative DNA Coding Scheme With GC Balance and Run-Length Constraints Using a Greedy Algorithm
+        link: "https://arxiv.org/abs/2103.03540"
+        authors: Seong-Joon Park, Yongwoo Lee*, and Jong-Seon No
+        conference: Journal of Communications and Networks (Accepted), 2022
+      
+      - title: General Bootstrapping Approach for RLWE-based Homomorphic Encryption
+        link: "https://eprint.iacr.org/2021/691"
+        authors: Andrey Kim, Maxim Deryabin, Jieun Eom, Rakyong Choi, Yongwoo Lee, Whan Ghang, and Donghoon Yoo
+        conference: IACR ePrint Archive, 2021
+
+      - title: High-precision bootstrapping of RNS-CKKS homomorphic encryption using optimal minimax polynomial approximation and inverse sine function
+        link: "https://eprint.iacr.org/2020/1549"
+        authors: Joon-Woo Lee, Eunsang Lee, Yongwoo Lee, Young-Sik Kim, and Jong-Seon No
+        conference: EUROCRYPT, 2021
+
+      - title: Improved Reduction Between SIS Problems Over Structured Lattices
+        link: "https://ieeexplore.ieee.org/abstract/document/9615083"
+        authors: Zahyun Koo, Yongwoo Lee, Joon-Woo Lee, Jong-Seon No, Young-Sik Kim
+        conference: IEEE Access, 2021
+      
+      - title: Cryptanalysis of the Ivanov-Kabatiansky-Krouk-Rumenko cryptosystems
+        link: "https://ieeexplore.ieee.org/document/9175031"
+        authors: Yongwoo Lee, Jinkyu Cho, Young-Sik Kim, and Jong-Seon No
+        conference: IEEE Communications Letters, 2020
+
+      - title: Modified pqsigRM&#58 RM code-based signature scheme
+        link: "https://ieeexplore.ieee.org/document/9206580"
+        authors: Yongwoo Lee, Wijik Lee, Young-Sik Kim, and Jong-Seon No
+        conference: IEEE Access, 2020
+        
+      - title: Near-optimal polynomial for modulus reduction using L2-norm for approximate homomorphic encryption
+        link: "https://ieeexplore.ieee.org/document/9159551"
+        authors: Yongwoo Lee, Joon-Woo Lee, Young-Sik Kim, and Jong-Seon No
+        conference: IEEE Access, 2020
+
+      - title: Post-quantum signature scheme based on modified Reed-Muller code (pqsigRM)
+        link: 
+        authors: Wijik Lee, Young-Sik Kim, Yongwoo Lee, and Jong-Seon No
+        conference: First round submission to the NIST post quantum cryptography call, 2017
+        
+      - title: Ciphertext-only attack on linear feedback shift register-based Esmaeili-Gulliver cryptosystem
+        link: "https://ieeexplore.ieee.org/document/7820159"
+        authors: Yongwoo Lee, Young-Sik Kim, and Jong-Seon No
+        conference: IEEE Communications Letters, 2017
+        
+      
+        
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: C
         level: 60%
+
+      - name: Tex 
+        level: 100%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
