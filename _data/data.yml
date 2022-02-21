@@ -26,11 +26,8 @@ sidebar:
     pdf: 
 
     languages:
-      - idiom: English
-        level: Intermediate
-
-      - idiom: Korean
-        level: Native
+      - idiom:
+        level: 
 
     interests:
       - item: Weight Training
@@ -49,7 +46,6 @@ career-profile:
 
       I am interested in cryptographic tools for privacy-preserving computing, especially <a href="https://en.wikipedia.org/wiki/Homomorphic_encryption">Homomorphic Encryption</a>.
       I am also interested in post-quantum cryptography, such as code-based and lattice-based cryptography.
-      I am also one of the submitters for a candidate algorithm (pqsigRM) in the first round of the NIST PQC Standardization.
       
 education:
     - degree: Ph.D in Electrical and Computer Engineering 
@@ -85,7 +81,11 @@ publications:
     title: Publications
     intro:  
     papers:
-
+      - title: Efficient FHEW Bootstrapping with Small Evaluation Keys, and Applications to Threshold Homomorphic Encryption
+        link: https://eprint.iacr.org/2022/198
+        authors: Yongwoo Lee, Daniele Micciancio, Andrey Kim, Rakyong Choi, Maxim Deryabin, Jieun Eom, and Donghoon Yoo
+        conference: IACR ePrint Archive, 2022
+        
       - title: High-Precision Bootstrapping for Approximate Homomorphic Encryption by Error Variance Minimization
         link: 
         authors: Yongwoo Lee, Joon-Woo Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, and HyungChul Kang
