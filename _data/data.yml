@@ -147,14 +147,8 @@ skills:
     title: Skills
 
     toolset:
-      - name: Python 
-        level: 70%
-
-      - name: C
-        level: 60%
-
-      - name: Tex 
-        level: 100%
+      - name: 
+        level: 
 
 
 footer: >
