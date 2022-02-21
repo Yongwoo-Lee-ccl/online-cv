@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Yongwoo Lee
@@ -25,9 +25,9 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
-    languages:
-      - idiom:
-        level: 
+    # languages:
+    #   - idiom:
+    #     level: 
 
     interests:
       - item: Weight Training
@@ -46,9 +46,11 @@ career-profile:
 
       I am interested in cryptographic tools for privacy-preserving computing, especially <a href="https://en.wikipedia.org/wiki/Homomorphic_encryption">Homomorphic Encryption</a>.
       I am also interested in post-quantum cryptography, such as code-based and lattice-based cryptography.
+      I am also one of the submitters for a candidate algorithm (pqsigRM) in the first round of the NIST PQC Standardization.
+
       
 education:
-    - degree: Ph.D in Electrical and Computer Engineering 
+    - degree: Ph.D in Electrical and Computer Engineering (Distinguished Dissertation)
       university: Seoul National University
       time: 2017 - 2021
       details: |
@@ -143,12 +145,12 @@ publications:
         
       
         
-skills:
-    title: Skills
+# skills:
+#     title: Skills
 
-    toolset:
-      - name: 
-        level: 
+    # toolset:
+    #   - name: 
+    #     level: 
 
 
 footer: >
