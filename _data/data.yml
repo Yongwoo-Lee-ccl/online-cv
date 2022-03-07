@@ -39,12 +39,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Staff Researcher in the Computing Platform Lab., <a href="https://www.sait.samsung.co.kr/">Samsung Advanced Institute Technology (SAIT)</a>.
-      I received the B.S. degree in EECS and Biology (minor) from <a href="https://eecs.gist.ac.kr/eecseng/index.do">GIST</a> in 2015.
-      I received the M.S. and Ph.D. degrees with Distinguished Dissertation Award from the Coding and Cryptography Lab, <a href="https://ece.snu.ac.kr/en">Department of ECE from Seoul National University (SNU)</a> in 2017 and 2021, respectively.
-      I am very fortunate to be advised by <a href="http://ccl.snu.ac.kr">Jong-Seon No</a>.
+      I am working as a Staff Researcher in the Computing Platform Lab., <a href="https://www.sait.samsung.co.kr/">Samsung Advanced Institute Technology (SAIT)</a>.
+      I received the B.S. degree in EECS and Biology (minor) from GIST in 2015.
+      I received the M.S. and Ph.D. degrees with Distinguished Dissertation Award from the Coding and Cryptography Lab, Department of ECE from Seoul National University (SNU) in 2017 and 2021, respectively.
+      I am very fortunate to be advised by <a href="http://ccl.snu.ac.kr/people/professor.asp">Jong-Seon No</a>.
 
-      I am interested in cryptographic tools for privacy-preserving computing, especially <a href="https://en.wikipedia.org/wiki/Homomorphic_encryption">Homomorphic Encryption</a>.
+      My research interests include cryptographic tools for privacy-preserving computing, especially Homomorphic Encryption.
       I am also interested in post-quantum cryptography, such as code-based and lattice-based cryptography.
       I am also one of the submitters for a candidate algorithm (pqsigRM) in the first round of the NIST PQC Standardization.
 
@@ -77,7 +77,7 @@ experiences:
       time: 2021 - Present
       company: Samsung Advanced Institute of Technology,  Korea
       details: |
-        Research Area: Homomorphic Encryption
+        Research Area: Privacy-preserving computing
 
 publications:
     title: Publications
@@ -89,7 +89,7 @@ publications:
         conference: IACR ePrint Archive, 2022
         
       - title: High-Precision Bootstrapping for Approximate Homomorphic Encryption by Error Variance Minimization
-        link: 
+        link: https://eprint.iacr.org/2020/1549
         authors: Yongwoo Lee, Joon-Woo Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, and HyungChul Kang
         conference: EUROCRYPT (Accepted), 2022
 
