@@ -83,12 +83,12 @@ publications:
     title: Publications
     intro:  
     papers:
-      - title: Efficient FHEW Bootstrapping with Small Evaluation Keys, and Applications to Threshold Homomorphic Encryption
+      - title: Efficient FHEW bootstrapping with small evaluation keys, and applications to threshold homomorphic encryption
         link: https://eprint.iacr.org/2022/198
         authors: Yongwoo Lee, Daniele Micciancio, Andrey Kim, Rakyong Choi, Maxim Deryabin, Jieun Eom, and Donghoon Yoo
         conference: IACR ePrint Archive, 2022
         
-      - title: High-Precision Bootstrapping for Approximate Homomorphic Encryption by Error Variance Minimization
+      - title: High-precision bootstrapping for approximate homomorphic encryption by error variance minimization
         link: https://eprint.iacr.org/2020/1549
         authors: Yongwoo Lee, Joon-Woo Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, and HyungChul Kang
         conference: EUROCRYPT (Accepted), 2022
@@ -98,12 +98,12 @@ publications:
         authors: Joon-Woo Lee, HyungChul Kang, Yongwoo Lee, Woosuk Choi, Jieun Eom, Maxim Deryabin, Eunsang Lee, Junghyun Lee, Donghoon Yoo, Young-Sik Kim, and Jong-Seon No
         conference: IEEE Access (Accepted), 2022
 
-      - title: Iterative DNA Coding Scheme With GC Balance and Run-Length Constraints Using a Greedy Algorithm
-        link: "https://arxiv.org/abs/2103.03540"
+      - title: Iterative coding scheme satisfying GC balance and run-length constraints for DNA storage with robustness to error propagation
+        link: 
         authors: Seong-Joon Park, Yongwoo Lee*, and Jong-Seon No
         conference: Journal of Communications and Networks (Accepted), 2022
       
-      - title: General Bootstrapping Approach for RLWE-based Homomorphic Encryption
+      - title: General bootstrapping approach for RLWE-based homomorphic encryption
         link: "https://eprint.iacr.org/2021/691"
         authors: Andrey Kim, Maxim Deryabin, Jieun Eom, Rakyong Choi, Yongwoo Lee, Whan Ghang, and Donghoon Yoo
         conference: IACR ePrint Archive, 2021
@@ -113,7 +113,7 @@ publications:
         authors: Joon-Woo Lee, Eunsang Lee, Yongwoo Lee, Young-Sik Kim, and Jong-Seon No
         conference: EUROCRYPT, 2021
 
-      - title: Improved Reduction Between SIS Problems Over Structured Lattices
+      - title: Improved reduction between SIS problems over structured lattices
         link: "https://ieeexplore.ieee.org/abstract/document/9615083"
         authors: Zahyun Koo, Yongwoo Lee, Joon-Woo Lee, Jong-Seon No, Young-Sik Kim
         conference: IEEE Access, 2021
