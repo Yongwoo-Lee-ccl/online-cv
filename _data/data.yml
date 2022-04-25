@@ -83,6 +83,11 @@ publications:
     title: Publications
     intro:  
     papers:
+      - title: "Medha: Microcoded hardware accelerator for computing on encrypted data"
+        link: https://eprint.iacr.org/2022/480
+        authors: Ahmet Can Mert, Aikata, Sunmin Kwon, Youngsam Shin, Donghoon Yoo, Yongwoo Lee, and Sujoy Sinha Roy
+        conference: IACR ePrint Archive, 2022
+
       - title: Efficient FHEW bootstrapping with small evaluation keys, and applications to threshold homomorphic encryption
         link: https://eprint.iacr.org/2022/198
         authors: Yongwoo Lee, Daniele Micciancio, Andrey Kim, Rakyong Choi, Maxim Deryabin, Jieun Eom, and Donghoon Yoo
