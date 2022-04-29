@@ -99,14 +99,14 @@ publications:
         conference: EUROCRYPT (Accepted), 2022
 
       - title: Privacy-preserving machine learning with fully homomorphic encryption for deep neural network
-        link: "https://eprint.iacr.org/2021/783"
+        link: "https://ieeexplore.ieee.org/document/9734024"
         authors: Joon-Woo Lee, HyungChul Kang, Yongwoo Lee, Woosuk Choi, Jieun Eom, Maxim Deryabin, Eunsang Lee, Junghyun Lee, Donghoon Yoo, Young-Sik Kim, and Jong-Seon No
-        conference: IEEE Access (Accepted), 2022
+        conference: IEEE Access, 2022
 
       - title: Iterative coding scheme satisfying GC balance and run-length constraints for DNA storage with robustness to error propagation
-        link: 
+        link: https://ieeexplore.ieee.org/document/9755094
         authors: Seong-Joon Park, Yongwoo Lee*, and Jong-Seon No
-        conference: Journal of Communications and Networks (Accepted), 2022
+        conference: Journal of Communications and Networks, 2022
       
       - title: General bootstrapping approach for RLWE-based homomorphic encryption
         link: "https://eprint.iacr.org/2021/691"
