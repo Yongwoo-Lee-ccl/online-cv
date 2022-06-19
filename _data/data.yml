@@ -29,15 +29,15 @@ sidebar:
     #   - idiom:
     #     level: 
 
-    interests:
-      - item: Weight Training
-        link:
+    # interests:
+    #   - item: Weight Training
+    #     link:
 
-      - item: Cooking
-        link:
+    #   - item: Cooking
+    #     link:
 
 career-profile:
-    title: Career Profile
+    title: Short Bio
     summary: |
       I am working as a Staff Researcher in the Computing Platform Lab., <a href="https://www.sait.samsung.co.kr/">Samsung Advanced Institute Technology (SAIT)</a>.
       I received the B.S. degree in EECS and Biology (minor) from GIST in 2015.
@@ -48,7 +48,14 @@ career-profile:
       I am also interested in post-quantum cryptography, such as code-based and lattice-based cryptography.
       I am also one of the submitters for a candidate algorithm (pqsigRM) in the first round of the NIST PQC Standardization.
 
-      
+        
+experiences:
+    - role: Staff Researcher
+      time: 2021 - Present
+      company: Samsung Advanced Institute of Technology,  Korea
+      details: |
+        Research Area: Privacy-preserving computing
+
 education:
     - degree: Ph.D in Electrical and Computer Engineering (Distinguished Dissertation)
       university: Seoul National University
@@ -71,18 +78,17 @@ education:
       university: Hansung Science High School
       time: 2008 - 2011
       details: 
-        
-experiences:
-    - role: Staff Researcher
-      time: 2021 - Present
-      company: Samsung Advanced Institute of Technology,  Korea
-      details: |
-        Research Area: Privacy-preserving computing
+
 
 publications:
     title: Publications
     intro:  
     papers:
+      - title: High-precision bootstrapping for approximate homomorphic encryption by error variance minimization
+        link: https://eprint.iacr.org/2020/1549
+        authors: Yongwoo Lee, Joon-Woo Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, and HyungChul Kang
+        conference: EUROCRYPT, 2022
+
       - title: "Medha: Microcoded hardware accelerator for computing on encrypted data"
         link: https://eprint.iacr.org/2022/480
         authors: Ahmet Can Mert, Aikata, Sunmin Kwon, Youngsam Shin, Donghoon Yoo, Yongwoo Lee, and Sujoy Sinha Roy
@@ -93,11 +99,6 @@ publications:
         authors: Yongwoo Lee, Daniele Micciancio, Andrey Kim, Rakyong Choi, Maxim Deryabin, Jieun Eom, and Donghoon Yoo
         conference: IACR ePrint Archive, 2022
         
-      - title: High-precision bootstrapping for approximate homomorphic encryption by error variance minimization
-        link: https://eprint.iacr.org/2020/1549
-        authors: Yongwoo Lee, Joon-Woo Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, and HyungChul Kang
-        conference: EUROCRYPT (Accepted), 2022
-
       - title: Privacy-preserving machine learning with fully homomorphic encryption for deep neural network
         link: "https://ieeexplore.ieee.org/document/9734024"
         authors: Joon-Woo Lee, HyungChul Kang, Yongwoo Lee, Woosuk Choi, Jieun Eom, Maxim Deryabin, Eunsang Lee, Junghyun Lee, Donghoon Yoo, Young-Sik Kim, and Jong-Seon No
@@ -147,16 +148,13 @@ publications:
         link: "https://ieeexplore.ieee.org/document/7820159"
         authors: Yongwoo Lee, Young-Sik Kim, and Jong-Seon No
         conference: IEEE Communications Letters, 2017
-        
-      
-        
+
 # skills:
 #     title: Skills
 
     # toolset:
     #   - name: 
     #     level: 
-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
