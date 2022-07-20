@@ -84,7 +84,7 @@ publications:
     title: Publications
     intro:  
     papers:
-      - title: OpenFHE: Open-source fully homomorphic encryption library
+      - title: "OpenFHE: Open-source fully homomorphic encryption library"
         link: https://eprint.iacr.org/2022/915
         authors: Ahmad Al Badawi, Jack Bates, Flavio Bergamaschi, David Bruce Cousins, Saroja Erabelli, Nicholas Genise, Shai Halevi, Hamish Hunt, Andrey Kim, Yongwoo Lee, Zeyu Liu, Daniele Micciancio, Ian Quah, Yuriy Polyakov, Saraswathy R.V., Kurt Rohloff, Jonathan Saylor, Dmitriy Suponitsky, Matthew Triplett, Vinod Vaikuntanathan, and Vincent Zucca
         conference: IACR ePrint Archive, 2022
