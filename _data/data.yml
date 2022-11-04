@@ -54,7 +54,7 @@ experiences:
       time: 2021 - Present
       company: Samsung Advanced Institute of Technology,  Korea
       details: |
-        Research Area: Privacy-preserving computing
+        Research Area: Homomorphic encryption, Privacy-preserving computing
 
 education:
     - degree: Ph.D in Electrical and Computer Engineering (Distinguished Dissertation)
@@ -88,16 +88,16 @@ publications:
         link: https://eprint.iacr.org/2022/915
         authors: Ahmad Al Badawi, Jack Bates, Flavio Bergamaschi, David Bruce Cousins, Saroja Erabelli, Nicholas Genise, Shai Halevi, Hamish Hunt, Andrey Kim, Yongwoo Lee, Zeyu Liu, Daniele Micciancio, Ian Quah, Yuriy Polyakov, Saraswathy R.V., Kurt Rohloff, Jonathan Saylor, Dmitriy Suponitsky, Matthew Triplett, Vinod Vaikuntanathan, and Vincent Zucca
         conference: IACR ePrint Archive, 2022
-        
-      - title: High-precision bootstrapping for approximate homomorphic encryption by error variance minimization
-        link: https://eprint.iacr.org/2020/1549
-        authors: Yongwoo Lee, Joon-Woo Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, and HyungChul Kang
-        conference: EUROCRYPT, 2022
 
       - title: "Medha: Microcoded hardware accelerator for computing on encrypted data"
         link: https://eprint.iacr.org/2022/480
         authors: Ahmet Can Mert, Aikata, Sunmin Kwon, Youngsam Shin, Donghoon Yoo, Yongwoo Lee, and Sujoy Sinha Roy
-        conference: IACR ePrint Archive, 2022
+        conference: CHES, 2023 (Accepted)
+
+      - title: High-precision bootstrapping for approximate homomorphic encryption by error variance minimization
+        link: https://eprint.iacr.org/2020/1549
+        authors: Yongwoo Lee, Joon-Woo Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, and HyungChul Kang
+        conference: EUROCRYPT, 2022
 
       - title: Efficient FHEW bootstrapping with small evaluation keys, and applications to threshold homomorphic encryption
         link: https://eprint.iacr.org/2022/198
