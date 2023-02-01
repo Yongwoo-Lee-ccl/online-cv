@@ -85,7 +85,7 @@ publications:
     intro:  
     papers:
       - title: "Efficient FHEW bootstrapping with small evaluation keys, and applications to threshold homomorphic encryption"
-        link: https://eprint.iacr.org/2022/198
+        link: "https://eprint.iacr.org/2022/198"
         authors: Yongwoo Lee, Daniele Micciancio, Andrey Kim, Rakyong Choi, Maxim Deryabin, Jieun Eom, and Donghoon Yoo
         conference: Eurocrypt, 2023 (Accepted)
         
